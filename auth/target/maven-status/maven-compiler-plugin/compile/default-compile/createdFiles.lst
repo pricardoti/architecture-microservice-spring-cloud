@@ -1,0 +1,5 @@
+br/com/microservice/auth/user/CustomUserDetails.class
+br/com/microservice/auth/user/UserDetailsImpl.class
+br/com/microservice/auth/AuthApplication.class
+br/com/microservice/auth/filter/JwtUserAndPasswordAuthenticationFilter.class
+br/com/microservice/auth/config/SecurityCredentialConfig.class

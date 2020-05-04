@@ -1,0 +1,6 @@
+/home/paulo-ricardo/workspace/microservice/core/src/main/java/br/com/microservice/core/repositories/CourseRepositoy.java
+/home/paulo-ricardo/workspace/microservice/core/src/main/java/br/com/microservice/core/models/ApplicationUser.java
+/home/paulo-ricardo/workspace/microservice/core/src/main/java/br/com/microservice/core/models/IEntity.java
+/home/paulo-ricardo/workspace/microservice/core/src/main/java/br/com/microservice/core/repositories/ApplicationUserRepositoy.java
+/home/paulo-ricardo/workspace/microservice/core/src/main/java/br/com/microservice/core/models/Course.java
+/home/paulo-ricardo/workspace/microservice/core/src/main/java/br/com/microservice/core/config/JwtConfiguration.java

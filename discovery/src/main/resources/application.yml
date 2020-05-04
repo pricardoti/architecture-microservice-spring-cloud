@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: regostry
+server:
+  port: 8081
+
+# Config Eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:${server.port}/eureka/
+    register-with-eureka: false
+    fetch-registry: false

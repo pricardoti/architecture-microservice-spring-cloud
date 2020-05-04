@@ -1,0 +1,5 @@
+/home/paulo-ricardo/workspace/microservice/auth/src/main/java/br/com/microservice/auth/filter/JwtUserAndPasswordAuthenticationFilter.java
+/home/paulo-ricardo/workspace/microservice/auth/src/main/java/br/com/microservice/auth/user/UserDetailsImpl.java
+/home/paulo-ricardo/workspace/microservice/auth/src/main/java/br/com/microservice/auth/user/CustomUserDetails.java
+/home/paulo-ricardo/workspace/microservice/auth/src/main/java/br/com/microservice/auth/AuthApplication.java
+/home/paulo-ricardo/workspace/microservice/auth/src/main/java/br/com/microservice/auth/config/SecurityCredentialConfig.java
